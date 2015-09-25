@@ -25,10 +25,8 @@ function onYouTubeIframeAPIReady() {
     });
 }
 
-
 $(function(){
 });
-
 
   //time offset
   var startTime = 0;
